@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">QuizzyBee</string>
+    <string name="app_title">QuizzyBee</string>
+    <string name="welcome_message">Welcome to the QuizzyBee App</string>
+    <string name="start_button">START</string>
+    <string name="background_image_description" tools:ignore="DuplicateDefinition">Background with grey theme>Grey background with quiz contentrey background with quiz content>Grey background for score screen</string>
+    <string name="question_placeholder">questions here</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="your_score_hint">Your Score</string>
+    <string name="feedback_hint">Feedback goes here</string>
+    <string name="review_button">REVIEW</string>
+    <string name="exit_button">EXIT</string>
+
+
+</resources>

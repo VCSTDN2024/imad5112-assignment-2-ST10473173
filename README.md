@@ -8,11 +8,9 @@ QuizyyBee
  
  Links
 
-- GitHub Repository Link:
+- GitHub Repository Link: https://github.com/VCSTDN2024/imad5112-assignment-2-ST10473173.git
 
-https://github.com/VCSTDN2024/imad5112-assignment-2-ST10473173.git
-
-- YouTube Video Link:
+- YouTube Video Link: https://youtu.be/Clh9dHOozxc?si=2bw5I09ISEKE7Hrk
 
 Project Overview
 

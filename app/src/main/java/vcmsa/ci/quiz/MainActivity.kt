@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        val btnStart: Button = findViewById(R.id.btnStart) // Start button takes you to second screen
+        val btnStart: Button = findViewById(R.id.btnStart) // Start button takes you to SecondActivity
         btnStart.setOnClickListener {
 
             val intent = Intent(this, SecondActivity::class.java)

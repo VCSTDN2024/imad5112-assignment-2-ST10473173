@@ -73,10 +73,16 @@ Screenshots
 
 What the user will see when the start up the app:
 
+![UI](https://github.com/user-attachments/assets/582770c5-930f-4695-9515-5d6dc8cc7375)
+
+
 Figure. 1. UI
 
 
 Second screen after they press start (Questions):
+
+![questions](https://github.com/user-attachments/assets/3d8b21d5-4289-436e-921a-3c83838fa82a)
+
 
 Figure. 2. Questions 
 When the user does not choose between “True or False” the app will prompt the user at the bottom of the app saying (Please select  an answer):

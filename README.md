@@ -87,12 +87,19 @@ Second screen after they press start (Questions):
 Figure. 2. Questions 
 When the user does not choose between “True or False” the app will prompt the user at the bottom of the app saying (Please select  an answer):
 
+![didnt choose a answer](https://github.com/user-attachments/assets/9b13a9bd-0a66-461d-b276-7279650ba190)
+
 Figure. 3 Choose an answer
 
 When the user chooses an answer between “True or False” is will prompt the user at the bottom the app if the answer is (correct or incorrect):
 
+![correct or incorrect](https://github.com/user-attachments/assets/12936d2a-ceac-4297-aeaa-10e1bf631b1b)
+
 Figure. 4 Correct or Incorrect
+
 After  answering all the questions the the score will pop out:
+
+
 
 Figure. 5. Score
 

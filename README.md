@@ -99,13 +99,18 @@ Figure. 4 Correct or Incorrect
 
 After  answering all the questions the the score will pop out:
 
-
+![score](https://github.com/user-attachments/assets/be52d280-b2c7-4a42-b961-73545152372b)
 
 Figure. 5. Score
 
 When the review is pressed it will show the answers you got incorrect:
 
+![review button](https://github.com/user-attachments/assets/17692f3f-3e85-483b-88f7-2c8c56acd235)
+
+
 Figure. 6. Review button
+
+
 Challenges and Learnings 
 
 1.UI and UX Design

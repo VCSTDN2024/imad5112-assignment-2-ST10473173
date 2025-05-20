@@ -27,12 +27,16 @@ The purpose of this app is to test and reinforce the users knowledge and help us
 Key Features 
 
 - Multiple activity navigation
+  
 - App exit functionality
+  
 - Incorrect answer review
+  
 - Score calculations
 
 
 Design Considerations
+
 1.User Interface Design
 
 - Simplicity and Clarity: The app features a clean and minimalistic interface with clearly labeled buttons for starting the quiz, selecting answers, reviewing results, and exiting. Each activity is focused on a single purpose: starting the quiz, answering questions, or displaying results which reduces cognitive load and makes navigation intuitive for users.
@@ -85,6 +89,7 @@ Second screen after they press start (Questions):
 
 
 Figure. 2. Questions 
+
 When the user does not choose between “True or False” the app will prompt the user at the bottom of the app saying (Please select  an answer):
 
 ![didnt choose a answer](https://github.com/user-attachments/assets/9b13a9bd-0a66-461d-b276-7279650ba190)
@@ -106,7 +111,6 @@ Figure. 5. Score
 When the review is pressed it will show the answers you got incorrect:
 
 ![review button](https://github.com/user-attachments/assets/17692f3f-3e85-483b-88f7-2c8c56acd235)
-
 
 Figure. 6. Review button
 
@@ -143,18 +147,28 @@ References
 
 Link: W3schools.com (no date) W3Schools Online Web Tutorials. Available at: https://www.w3schools.com/kotlin/kotlin_functions.php (Accessed: 26 March 2025). 
 
-Link: Learn Kotlin from scratch (no date) Coding Blocks Online. Available at: https://online.codingblocks.com/courses/kotlin-basics (Accessed: 27 March 2025). 
+Link: Learn Kotlin from scratch (no date) Coding Blocks Online. Available at: https://online.codingblocks.com/courses/kotlin-basics (Accessed: 27 March 2025).
+
+Link: https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/IIE%20Student%20Materials/New%20Student%20Materials%20CAT/IMAD5112/2025/Term%201/IMAD5112_MM.docx?d=wa1ff62f08e1a47bc99bdca07ae24427d&csf=1&web=1&e=KN9fJa
 
 List Of Figures
 
 Figure 1: UI
+
 Figure 2: Questions 
+
 Figure 3: Choose an answer
+
 Figure 4: Correct or Incorrect
+
 Figure 5: Score
+
 Figure 6: Review button
+
 Figure 7: Chat 1
+
 Figure 8: Chat 2
+
 Figure 9: Chat 3
 
 Disclosure Of AI Usage In My Assignment
@@ -164,7 +178,9 @@ In the development of this project, I have used generative Ai tools to assist in
 1.In which  generative was AI used
 
 - To help me change the colour of the texts and buttons.
+  
 - To help me add more screens in my app.
+  
 -To help me choose questions to ask.
 
 2.Name of AI tools used
@@ -174,31 +190,38 @@ In the development of this project, I have used generative Ai tools to assist in
 3.Purpose behind the use
 
 -To help me make the imageview fit the full background.
+
 -To help me improve the app and make it look fun to use.
+
 -To help me change the colour of buttons and texts.
  
 4.Dates in which AI was used
 
 -Chat 1: 23 April 2025
+
 -Chat 2: 25 April 2025
+
 -Chat 3: 29 April 2025
-
-
 
 
 5.Link to AI chats or screenshots
 
 -Chat 1: Asking for Blue colour code.
 
+![colour code](https://github.com/user-attachments/assets/4f6f7a8b-5560-4560-baa1-8fb7770b2a16)
+
 Figure. 7. Chat 1
 
 -Chat 2: Help making my image view fit the full screen.
 
-Figure. 8. Chat 2
+![background fit](https://github.com/user-attachments/assets/f48a6d47-5f83-41a0-8e03-3fd20e3729d1)
 
+Figure. 8. Chat 2
 
 -Chat 3: How to add a second screen.
 
- Figure. 9. Chat 3
+![second screen](https://github.com/user-attachments/assets/50452283-766c-484f-b1e3-1ff729f6da39)
+
+Figure. 9. Chat 3
 
 
